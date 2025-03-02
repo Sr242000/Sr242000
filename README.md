@@ -1,17 +1,17 @@
 👋 Hi there, I'm Shreyash Rahate! 
 
 
-🎓 Graduate in B.Tech Mechatronics | <br>
-🕹️ Passionate about Game Development & Game Design | <br>
-📱 Developed an Android app for dyslexic children as my final-year project | <br>
+🎓 Graduate in B.Tech Mechatronics  <br>
+🕹️ Passionate about Game Development & Game Design  <br>
+📱 Developed an Android app for dyslexic children as my final-year project  <br>
 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities <br>
 
 🔗 Research Paper - https://ieeexplore.ieee.org/abstract/document/10864460 <br>
 
 <br>
 Currently Learning -<br>
-Unity & Game Development 🎮 |<br>
-Game Design Principles 🎨 |<br>
+Unity & Game Development 🎮 <br>
+Game Design Principles 🎨 <br>
 GitHub & Version Control 💻 <br>
 
 <!--
