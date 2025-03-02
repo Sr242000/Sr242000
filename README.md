@@ -9,7 +9,7 @@
 🔗 Research Paper - https://ieeexplore.ieee.org/abstract/document/10864460 <br>
 
 <br>
-Currently Learning -<br>
+Currently Learning :-<br>
 Unity & Game Development 🎮 <br>
 Game Design Principles 🎨 <br>
 GitHub & Version Control 💻 <br>
