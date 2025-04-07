@@ -11,7 +11,7 @@
 <br>
 Currently Learning :-<br>
 Unity & Game Development 🎮 <br>
-Game Design Principles 🎨 <br>
+Game Design and Art Principles 🎨 <br>
 GitHub & Version Control 💻 <br>
 
 <!--
