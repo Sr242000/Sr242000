@@ -2,7 +2,7 @@
 
 
 🎓 Graduate in B.Tech Mechatronics  <br>
-🕹️ Passionate about Game Development & Game Design  <br>
+🕹️ Passionate about Game Development, Game Design and Game Art  <br>
 📱 Developed an Android app for dyslexic children as my final-year project  <br>
 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities <br>
 
