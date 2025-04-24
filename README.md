@@ -10,9 +10,9 @@
 
 <br>
 Currently Learning :-<br>
-Unity & Game Development 🎮 <br>
-Game Design and Art Principles 🎨 <br>
-GitHub & Version Control 💻 <br>
+🎮 Unity & Game Development <br>
+🎨 Game Design and Art Principles <br>
+💻 GitHub & Version Control <br>
 
 <!--
 **Sr242000/Sr242000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
