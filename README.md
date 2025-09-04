@@ -7,6 +7,7 @@
 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities <br>
 
 🔗 Research Paper - https://ieeexplore.ieee.org/abstract/document/10864460 <br>
+🕹️ Itch.io Profile - https://sr242000.itch.io/ <br>
 
 <br>
 Currently Learning :-<br>
