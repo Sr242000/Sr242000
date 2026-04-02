@@ -2,7 +2,8 @@
 
 
 🎓 Graduate in B.Tech Mechatronics  <br>
-🕹️ Passionate about Game Development, Game Design and Game Art  <br>
+🕹️ Passionate about Game Design, Game Development and Interactive Experiences  <br>
+🎮 Focused on creating engaging gameplay systems, mechanics, and player experiences <br>
 📱 Developed an Android app for dyslexic children as my final-year project  <br>
 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities <br>
 
@@ -10,10 +11,10 @@
 🕹️ Itch.io Profile - https://sr242000.itch.io/ <br>
 
 <br>
-Currently Learning :-<br>
-🎮 Unity & Game Development <br>
-🎨 Game Design and Art Principles <br>
-💻 GitHub & Version Control <br>
+Currently Learning:-<br>
+🎮 Game Design Principles & Level Design <br>
+🎨 UI/UX for Games <br>
+💻 Unity & Unreal Engine for Game Design and Development <br>
 
 <!--
 **Sr242000/Sr242000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
