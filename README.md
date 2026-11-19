@@ -5,7 +5,7 @@
 🎮 Completed a Diploma in Game Design and Production at Backstage Pass Institute of Gaming, Hyderabad, Telangana, India <br>
 🕹️ Completed the Game Development Accelerator (Cohort 2) at GameEon Studios, mentored by Nikhil Malankar <br>
 🎮 Passionate about Game Design, Level Design, Gameplay Systems, and Interactive Experiences <br> 
-🎯 Focused on creating engaging gameplay mechanics, levels, and player experiences 
+🎯 Focused on creating engaging gameplay mechanics, levels, and player experiences <br> 
 📱 Developed an Android app for children with dyslexia as my final-year project <br>
 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities <br>   
 
