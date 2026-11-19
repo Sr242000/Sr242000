@@ -1,11 +1,11 @@
 👋 Hi there, I'm Shreyash Rahate! <br>
 <br>
-**About Me:** 
+**About Me:**<br> 
 🎓 B.Tech Graduate in Mechatronics Engineering, Manipal Institute of Technology, Udupi, Karnataka, India <br>   
 🎮 Completed a Diploma in Game Design and Production at Backstage Pass Institute of Gaming, Hyderabad, Telangana, India <br>
 🕹️ Completed the Game Development Accelerator (Cohort 2) at GameEon Studios, mentored by Nikhil Malankar <br>
 🎮 Passionate about Game Design, Level Design, Gameplay Systems, and Interactive Experiences <br> 
-🎯 Focused on creating engaging gameplay mechanics, levels, and player experiences <br>  
+🎯 Focused on creating engaging gameplay mechanics, levels, and player experiences<br>  
 📱 Developed an Android app for children with dyslexia as my final-year project <br>
 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities <br>   
 
