@@ -1,5 +1,6 @@
 👋 Hi there, I'm Shreyash Rahate!
 
+
 ### About Me
 
 - 🎓 B.Tech Graduate in Mechatronics Engineering, Manipal Institute of Technology, Udupi, Karnataka, India
@@ -10,12 +11,14 @@
 - 📱 Developed an Android app for children with dyslexia as my final-year project
 - 📄 Co-author of a research paper on early learning apps for dyslexia and other learning disabilities
 
+
 ### Links
 
 - 🔗 [Research Paper](https://ieeexplore.ieee.org/abstract/document/10864460)
 - 🕹️ [Itch.io Profile](https://sr242000.itch.io/)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shreyash-rahate-4036561ba/)
 - 🔗 [Portfolio](https://shreyash242000.wixsite.com/shreyash-rahate)
+
 
 ### Skills & Areas of Interest
 
